@@ -1,0 +1,11 @@
+{
+  "description": "Transliterates Russian keyboard layout input in GNOME search",
+  "name": "Translit Search",
+  "shell-version": [
+    "49",
+    "50"
+  ],
+  "url": "https://github.com/ewokasi/TranslitSearch",
+  "uuid": "translit-search@local",
+  "version": 1
+}
